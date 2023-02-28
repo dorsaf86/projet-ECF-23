@@ -17,7 +17,6 @@ pour l 'exuction  de l 'apllication sur votre poste , vou devez  installer les d
   1. Après avoir installé NodeJS, ouvrir une invite de commande
   2. Taper `npm install -g @angular/cli`.
   #### boostrap: 
-  1.
   il faut install bootsrap en saisissant dans une invite de commande : npm install --savebootsrap.
   ##Exuction:
   apres avoir  suivit toutes la procédure et la  création de la base de données :
